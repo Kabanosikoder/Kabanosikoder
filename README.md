@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and *(some)* Python.
 - I’m looking to collaborate with someone who's willing to help me learn faster or who has some general tips/feedback for a beginner like myself.
 - 📫 My Discord: **ambasador_kabanosik**
-  *(I also like cats so send me pictures of cats on discord lmao)*
+- *(I also like cats )*
 
 
 <!---
