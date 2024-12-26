@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kabanosikoder aka Panther
-- I’m interested in games and coding! specifically on the minecraft modding side of things.
+- I'm a minecraft modder :3
 - 🌱 I’m currently learning Java and *(some)* Python.
 - I’m looking to collaborate with someone who's willing to help me learn faster or who has some general tips/feedback for a beginner like myself.
 - 📫 My Discord: **ambasador_kabanosik**
