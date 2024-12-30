@@ -1,10 +1,37 @@
-- 👋 Hi, I’m Kabanosikoder aka Panther
-- I'm a minecraft modder :3
-- 🌱 I’m currently learning Java and *(some)* Python.
-- I’m looking to collaborate with someone who's willing to help me learn faster or who has some general tips/feedback for a beginner like myself.
-- 📫 My Discord: **ambasador_kabanosik**
-- *(I also like cats )*
-- "Comfort is the killer of man, strive for discomfort!"
+# About Me
+
+Hi there! 👋 I'm Kabanosikoder (aka Panther), a student passionate about Java, Minecraft Modding and Python.
+
+## Table of Contents
+
+- [Who Am I?](#who-am-i)
+- [Projects](#projects)
+- [Contact and Media](#contact-and-media)
+
+## Who Am I?
+
+- I'm a student in France, studying computer science in High School. I've always enjoyed Minecraft and loved to play mods as a child.
+- So now I've begun developing mods. 
+## Projects
+
+### Ender Steel Mod (Java)
+- **Description:** The Ender Steel mod is a Minecraft mod for 1.20.1 fabric that adds a new material and various weapons and equipment to enhance the PvP experience.
+- **Link:** https://modrinth.com/mod/ender-steel (it might not be available yet since it is still under review)
+
+### Space Invaders (Python)
+- **Description:** A brief summary of what the project is about.
+- **Technologies Used:** List technologies/tools used.
+- **Link:** https://github.com/Kabanosikoder/Space-Invaders
+
+## Contact and Media
+
+Feel free to reach out to me:
+
+- Email: kflodab@gmail.com
+- Discord: ambasador_kabanosik 
+
+Or check out my Youtube:
+- Youtube: https://www.youtube.com/@panther3618
 
 <!---
 Kabanosikoder/Kabanosikoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
