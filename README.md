@@ -16,7 +16,7 @@ Hi there! 👋 I'm Kabanosikoder (aka Panther), a student passionate about Java,
 
 ### Ender Steel Mod (Java)
 - **Description:** The Ender Steel mod is a Minecraft mod for 1.20.1 fabric that adds a new material and various weapons and equipment to enhance the PvP experience.
-- **Link:** https://modrinth.com/mod/ender-steel (it might not be available yet since it is still under review)
+- **Link:** https://modrinth.com/mod/ender-steel
 
 ### Space Invaders (Python)
 - **Description:** A brief summary of what the project is about.
