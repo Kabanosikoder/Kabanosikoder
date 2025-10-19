@@ -20,7 +20,7 @@ Hi there! 👋 I'm Kabanosikoder (aka Panther), a student passionate about Java,
 - **Curseforge:** https://www.curseforge.com/minecraft/mc-mods/ender-steel
 
 ### Space Invaders (Python)
-- **Description:** Fun little python game I made.
+- **Description:** Python game for computer science class
 - **Link:** https://github.com/Kabanosikoder/Space-Invaders
 
 ## Contact and Media
