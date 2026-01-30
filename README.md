@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Kabanosikoder (aka Panther), a student passionate about Java, Minecraft Modding and Python.
+Hi there! 👋 I'm Kas, a student passionate about Java, Minecraft Modding and Python.
 
 ## Table of Contents
 
