@@ -30,8 +30,6 @@ Feel free to reach out to me:
 - Email: kflodab@gmail.com
 - Discord: ambasador_kabanosik 
 
-Or check out my Youtube:
-- Youtube: https://www.youtube.com/@panther3618
 
 <!---
 Kabanosikoder/Kabanosikoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
