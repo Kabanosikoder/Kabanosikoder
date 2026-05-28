@@ -21,7 +21,7 @@ Hi there! 👋 I'm Kas, a student passionate about programming and computer scie
 
 ### Maze Racers (Python)
 - **Description:** A fun game where the player must race through a randomly generated maze, playing against an AI maze racer.
-- **Link:** [https://github.com/Kabanosikoder/Space-Invaders](https://github.com/Goofy-Goobers-NSI/NSI-Maze-Game)
+- **Link:** https://github.com/Goofy-Goobers-NSI/NSI-Maze-Game
 
 ## Contact and Media
 
