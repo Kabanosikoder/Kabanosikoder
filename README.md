@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm Kas, a student passionate about Java, Minecraft Modding and Python.
+Hi there! 👋 I'm Kas, a student passionate about programming and computer science.
 
 ## Table of Contents
 
@@ -19,9 +19,9 @@ Hi there! 👋 I'm Kas, a student passionate about Java, Minecraft Modding and P
 - **Modrinth:** https://modrinth.com/mod/ender-steel
 - **Curseforge:** https://www.curseforge.com/minecraft/mc-mods/ender-steel
 
-### Space Invaders (Python)
-- **Description:** Python game for computer science class
-- **Link:** https://github.com/Kabanosikoder/Space-Invaders
+### Maze Racers (Python)
+- **Description:** A fun game where the player must race through a randomly generated maze, playing against an AI maze racer.
+- **Link:** [https://github.com/Kabanosikoder/Space-Invaders](https://github.com/Goofy-Goobers-NSI/NSI-Maze-Game)
 
 ## Contact and Media
 
