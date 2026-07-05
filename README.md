@@ -10,8 +10,7 @@ Hi there! 👋 I'm Kas, a student passionate about programming and computer scie
 
 ## Who Am I?
 
-- I'm a student in France, studying computer science in High School. I've always enjoyed Minecraft and loved to play mods as a child.
-- So now I've begun developing mods. 
+- I'm a student in France, studying computer science in High School. I develop and pursue whatever interests me.
 ## Projects
 
 ### Ender Steel Mod (Java)
